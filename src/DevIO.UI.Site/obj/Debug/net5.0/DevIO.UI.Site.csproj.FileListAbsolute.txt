@@ -7,7 +7,6 @@ D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\DevIO.UI.Site.runtimeconfig.dev.
 D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\DevIO.UI.Site.dll
 D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\ref\DevIO.UI.Site.dll
 D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\DevIO.UI.Site.pdb
-D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\DevIO.UI.Site.csproj.AssemblyReference.cache
 D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\DevIO.UI.Site.GeneratedMSBuildEditorConfig.editorconfig
 D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\DevIO.UI.Site.AssemblyInfoInputs.cache
 D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\DevIO.UI.Site.AssemblyInfo.cs
