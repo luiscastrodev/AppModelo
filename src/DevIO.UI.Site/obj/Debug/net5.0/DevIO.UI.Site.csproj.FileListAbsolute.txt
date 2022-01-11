@@ -111,3 +111,7 @@ D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.
 D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\libman.json
 D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\bundleconfig.json
+D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\DevIO.UI.Site.csproj.AssemblyReference.cache
+D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Modulos\Produtos\Views\Cadastro\Index.cshtml.g.cs
+D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Modulos\Produtos\Views\_ViewStart.cshtml.g.cs
+D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Modulos\Vendas\Views\Pedidos\Index.cshtml.g.cs
