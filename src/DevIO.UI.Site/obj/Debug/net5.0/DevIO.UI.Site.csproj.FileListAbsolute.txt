@@ -111,3 +111,4 @@ D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtm
 D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\AppModelo\src\DevIO.UI.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\libman.json
+D:\AppModelo\src\DevIO.UI.Site\bin\Debug\net5.0\bundleconfig.json
