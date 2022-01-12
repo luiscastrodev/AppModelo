@@ -9,7 +9,7 @@ namespace DevIO.UI.Site.Controllers
 {
     public class HomeController: Controller
     {
-        private IPedidoRepository _pedidoRepository;
+        private readonly IPedidoRepository _pedidoRepository;
 
         public HomeController(IPedidoRepository pedidoRepository)
         {
